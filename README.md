@@ -7,4 +7,4 @@
             2. Visualizing dataset and Creating WordClouds
             3. Using Naive bayes algorithm to find probability of spam emails and word frequencies.(Training)
             4. Testing and Evaluating model.
-            *  Model has accuracy of 97.7%
+            **  Model has accuracy of 97.7%
